@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(nul)",
+      "Bash(tree:*)",
+      "Bash(dir /s \"c:\\Users\\wiwil\\OneDrive\\Desktop\\PROGRAMAÇÃO\\ARRUMANDO-PROJETOS\\Tech-Challenge-F3\")",
+      "Bash(findstr:*)",
+      "Bash(pip install:*)",
+      "Bash(black:*)",
+      "Bash(isort:*)",
+      "Bash(python -m isort:*)",
+      "Bash(pip freeze:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

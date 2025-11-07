@@ -164,3 +164,26 @@ cython_debug/
 # Database
 DATASET/
 willModel.ipynb
+
+# Kaggle credentials
+.kaggle/
+kaggle.json
+
+# Temporary files
+nul
+*.tmp
+*.temp
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models (if saved)
+*.h5
+*.pkl
+*.joblib
+saved_models/
